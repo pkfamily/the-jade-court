@@ -22,6 +22,9 @@
 .mystery-entry h2{font-size:clamp(2rem,3vw,2.8rem)}
 @media(max-width:600px){.site-header{height:auto;min-height:90px;flex-wrap:wrap;gap:16px;padding:18px 20px}.site-header nav{flex-wrap:wrap;gap:18px}.mystery-intro{padding:48px 22px 36px}.mystery-art{padding:0}.mystery-art img{border-left:0;border-right:0}}
 
+.story-illustration{margin:36px 0 42px}.story-illustration img{width:100%;border:1px solid var(--line)}.story-illustration figcaption{font:.75rem/1.6 Arial,Helvetica,sans-serif;color:var(--muted);text-align:center;padding:14px 8px 0}
+@media(min-width:1000px){.story-illustration{width:960px;max-width:calc(100vw - 60px);margin-left:calc((100% - 960px)/2)}}
+
 /* Original story entry point and reader note. */
 .full-story-callout{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:25px;padding-top:32px;border-top:1px solid var(--line)}
 .intro>.full-story-callout{display:flex}

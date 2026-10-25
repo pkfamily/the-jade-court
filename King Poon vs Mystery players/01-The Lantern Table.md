@@ -4,21 +4,33 @@ For years, the walnut box had sat on the traveler's shelf, holding nothing but a
 
 Then, one evening, a bird began singing inside it.
 
-The traveler set aside a book and cleared a space on the desk. Beneath a layer of dust, the walnut lid was warm. Its carved feathers shifted under their fingers. When the clasp lifted, lamplight fell into a depth that should have ended at the bottom of a shallow tray.
+The traveler set aside a leather-bound book and cleared a space on the mahogany writing desk. An oil lamp cast a small circle of light across the worn wood; beyond it, faded floral wallpaper disappeared into the shadows of the study. Beneath a layer of dust, the walnut lid was warm. Its carved feathers shifted under their fingers. When the clasp lifted, lamplight fell into a depth that should have ended at the bottom of a shallow tray.
 
 Far below, a river curved around a city of green roofs.
 
 The traveler leaned closer. Somewhere in that impossible distance, people were laughing around a table. It had been a long time since a room had sounded so inviting.
 
-A small golden bird rose from the box and landed on the windowsill. Beyond the glass, the familiar street had disappeared. A narrow bridge now crossed the river toward the city.
+A small golden bird rose from the box and circled the traveler. Then it dipped back toward the landscape inside, pausing above the river to look up at them. When they stepped away, it returned to the rim and called again.
 
-The traveler fetched a black coat and a tall black hat. After a moment's hesitation, they closed the lid, tucked the box beneath one arm, and opened the door. The bridge began at the doorstep. The bird fluttered past their shoulder and waited on its railing until they followed.
+The traveler glanced at the window. Outside, a gas lamp lit the familiar cobbled street beneath the sash window. Whatever country they could see inside the box, it was somewhere else entirely.
 
-At the other end of the bridge, a festival was ending. Shopkeepers gathered their awnings. Children carried painted game pieces almost as large as their hands. Through an open doorway, an elderly woman celebrated a victory while her opponent demanded that she explain it again, more slowly.
+They fetched a black coat and a tall black hat, then stood beside the desk and bent over the box, holding a hand above the opening. The bird descended a little way and waited.
+
+Their fingers followed it below the rim. They reached farther than the box was deep, yet touched no wood. Warm air stirred their sleeve. The traveler paused, took one last look around the room, and leaned toward the waiting bird.
+
+A gentle current lifted their feet from the floor. The opening widened around their shoulders, and the desk slipped out of sight as they passed through the box. Golden light surrounded them. Ahead, the bird flew down a luminous passage, slowing whenever they drifted behind.
+
+Then their shoes met stone. They stood on a path beside an unfamiliar river, facing the green-roofed city they had seen from the desk. Their room was gone. They had crossed into another world.
+
+At their feet lay the walnut box, closed again. The traveler picked it up and checked the clasp. The bird waited on a nearby signpost until they were ready, then fluttered toward the city, returning whenever they hesitated at a turning.
+
+![Standing beside a mahogany desk in a Victorian study, the traveler reaches into the walnut box, follows a golden bird through its portal, and arrives beside a river in another world.](../docs/assets/images/mystery-box-crossing-v4.jpg)
+
+Following their guide into the streets, they found a festival ending. Shopkeepers gathered their awnings. Children carried painted game pieces almost as large as their hands. Through an open doorway, an elderly woman celebrated a victory while her opponent demanded that she explain it again, more slowly.
 
 The traveler lingered there, smiling beneath the brim.
 
-The golden bird flew on toward a timber pavilion beside the water. At its door, the guide slipped back beneath the walnut lid, leaving a warm glow along the seam.
+The golden bird flew on toward a grand pavilion beside the water, its high roof supported by jade columns wound with gilded dragons. At its door, the guide slipped back beneath the walnut lid, leaving a warm glow along the seam.
 
 Inside, King Poon was trying to persuade Minister Shen to sit down.
 
@@ -30,7 +42,7 @@ Poon pushed a cup toward the empty chair. Shen laid the ledger on the seat inste
 
 The king sighed.
 
-Beyond the pavilion, lanterns reflected in the river. He had opened this hall so anyone could come in for a game, and on most evenings every table filled. He liked the noise. Sometimes, when a close match drew a crowd, he could almost hear the arena he had left behind.
+Behind Poon, an empty jade throne stood on a raised dais, its back crowned by two carved green dragons facing inward. He had left it to sit at one of the game tables beneath the tall columns, where he could speak to his guests without making them look up. Lanternlight gleamed on the polished green floor and reflected in the river beyond the arched windows. He had opened this royal pavilion so anyone could come in for a game, and on most evenings every table filled. He liked the noise. Sometimes, when a close match drew a crowd, he could almost hear the arena he had left behind.
 
 Tonight the last players had gone home. Poon was gathering the cards when the door opened.
 
@@ -48,13 +60,13 @@ He moved Shen's ledger to another table.
 
 “The riverside game hall,” he said, drawing out the chair. “In the Poon Kingdom. You look as though you've had a journey.”
 
-The visitor sat near the fire. As they opened the box, its glow spread across the hearth. The flames framed jade towers and distant mountains washed in late afternoon gold, though night had already fallen outside. The view lingered as the visitor set the open box beside the board.
+The visitor sat opposite him, near a great hearth framed in carved jade. As they opened the box, its glow climbed the stonework. The flames framed jade towers and distant mountains washed in late afternoon gold, though night had already fallen outside. The view lingered as the visitor set the open box beside the board.
 
 Shen checked the window beside him, then the hearth. He quietly reached for his brush.
 
 “Was there an opening like that where you came from?” Poon asked, nodding toward the hearth.
 
-“There was a city inside the box. Then a bridge outside my door.” The visitor looked from the hearth to the bird. “It brought me here. I don't know why.”
+“I followed that bird into the box.” The visitor looked down at the small wooden object beside them. “There was a passage inside. It brought me out by the river, and the bird led me here.”
 
 “I didn't get much warning either,” Poon said. “One moment I was going up for a dunk. The next, I was sitting in a palace with everyone calling me king.”
 

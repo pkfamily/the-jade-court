@@ -1,12 +1,27 @@
 """Render the first Mystery Players encounter using only the standard library."""
 from html import escape
 from pathlib import Path
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 source = ROOT / 'King Poon vs Mystery players/01-The Lantern Table.md'
 blocks = source.read_text().strip().split('\n\n')
 title = escape(blocks[0].removeprefix('# '))
-paragraphs = '\n'.join(f'        <p>{escape(block)}</p>' for block in blocks[1:])
+rendered = []
+for block in blocks[1:]:
+    illustration = re.fullmatch(r'!\[(.*?)\]\((.*?)\)', block)
+    if illustration:
+        alt, relative_path = illustration.groups()
+        image_path = (source.parent / relative_path).resolve()
+        web_path = image_path.relative_to(ROOT / 'docs')
+        rendered.append(
+            f'        <figure class="story-illustration"><img src="../{escape(web_path.as_posix())}" '
+            f'width="1672" height="941" loading="lazy" alt="{escape(alt)}">'
+            '<figcaption>Through the box, into another world. The golden bird leads the way.</figcaption></figure>'
+        )
+    else:
+        rendered.append(f'        <p>{escape(block)}</p>')
+paragraphs = '\n'.join(rendered)
 page = '''<!doctype html>
 <html lang="en">
 <head>
@@ -32,7 +47,7 @@ page = '''<!doctype html>
       <a class="button" href="#encounter">Enter the lantern room <span aria-hidden="true">↓</span></a>
     </section>
     <figure class="mystery-art">
-      <img src="../assets/images/mystery-lantern-table.jpg" width="1672" height="941" fetchpriority="high" alt="A mysterious player dressed in black with a tall black top hat faces King Poon across a bird-themed board game. A golden bird rises from an enchanted box beside them, and a glowing fireplace reveals the distant jade kingdom.">
+      <img src="../assets/images/mystery-lantern-table-v4.jpg" width="1672" height="941" fetchpriority="high" alt="A mysterious player dressed in black with a tall black top hat faces King Poon across a bird-themed board game. Tall jade columns and an empty dragon throne rise behind Poon. A golden bird hovers above an enchanted box, and a monumental jade hearth reveals a sunlit kingdom.">
       <figcaption>One familiar king. One unknown opponent.</figcaption>
     </figure>
     <article id="encounter" aria-labelledby="encounter-title">

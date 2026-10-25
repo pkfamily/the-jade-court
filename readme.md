@@ -40,7 +40,9 @@ Edit `chapters/01-a-dunk-through-heaven.md` for Chapter 1 prose, then run `pytho
 
 [King Poon vs Mystery Players](docs/mystery-players/index.html) opens with **The Lantern Table**, an original encounter set in Poon’s kingdom, taking the enchanted-box premise from the supplied **The Box** story. The homepage links to this separate series. Its first opponent wears black and a black top hat; the encounter follows the opening exchanges of their match, with their identity and the outcome still unknown.
 
-Edit `King Poon vs Mystery players/01-The Lantern Table.md`, then run `python3 tools/build_mystery.py`. The original `The Box.md` is preserved. Artwork originals and the generation/edit prompts live in `assets/images/`; the optimized website image is `docs/assets/images/mystery-lantern-table.jpg`.
+Edit `King Poon vs Mystery players/01-The Lantern Table.md`, then run `python3 tools/build_mystery.py`. The original `The Box.md` is preserved. Artwork originals and the generation/edit prompts live in `assets/images/`; the optimized website image is `docs/assets/images/mystery-lantern-table-v4.jpg`.
+
+The story has two illustrations: the match scene and an inline three-panel crossing sequence (`docs/assets/images/mystery-box-crossing-v4.jpg`). The traveler enters the portal inside the walnut box and follows the golden bird into the Poon Kingdom. The crossing illustration is positioned by its Markdown image reference in the story source.
 
 
 1. **Write:** Break the story into episodes, then script each page or scrolling sequence. Track episode tasks with GitHub Issues.
