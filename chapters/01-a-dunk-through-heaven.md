@@ -18,7 +18,19 @@ James looked over his shoulder. Behind him was a wall.
 
 “Me?”
 
-“Yes, Your Majesty,” said the official beside him.
+“Yes, Your Majesty,” said an official, stepping forward.
+
+James turned toward him. Something in the man's face, and the calm way he was studying the room, caught him off guard.
+
+“Shane? Is that you?”
+
+“Shen, Your Majesty. Your adviser.”
+
+“Shane Battier. We played together.”
+
+The official considered this. “If we did, I hope I was useful.”
+
+James almost laughed. That sounded like him, too.
 
 James stood. “Where am I? What happened to the arena?”
 
@@ -28,11 +40,7 @@ James stood. “Where am I? What happened to the arena?”
 
 The official hesitated. “Whom shall I summon?”
 
-James studied him. The man's concern seemed real. So did the weight of the crown.
-
-“Your name?”
-
-“Minister Shen, Your Majesty.”
+James studied him again. Shen's concern seemed real. So did the weight of the crown. He searched for some sign that his old teammate was enjoying an elaborate joke, but the official simply waited.
 
 “Shen. I need you to tell me exactly where we are.”
 

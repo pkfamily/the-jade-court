@@ -4,6 +4,24 @@
 @media(max-width:600px){.site-header{height:75px;padding:0 20px}.brand{font-size:.95rem;gap:9px}.seal{font-size:21px}nav{gap:18px;font-size:.72rem}.hero{height:auto;min-height:0}.hero-art{position:relative;height:auto;width:100%;object-fit:contain}.hero:after{top:0;height:56vw;background:linear-gradient(0deg,var(--deep),transparent 35%);pointer-events:none}.hero-copy{margin:0;padding:12px 26px 38px;background:var(--deep)}.hero h1{font-size:4.6rem;margin:20px 0}.hero h1 br{display:none}.hero-description{font-size:1rem}.hero-caption{display:none}.hero-copy .eyebrow{margin-bottom:12px}.hero-note{font-size:.65rem}.section-wrap{padding:48px 24px}.intro>div{grid-template-columns:1fr;gap:22px}.intro h2 br{display:none}.intro h2{max-width:300px}.section-heading h2{font-size:1.9rem}.section-heading .eyebrow{font-size:.55rem;white-space:nowrap}.chapter-card{grid-template-columns:1fr}.chapter-info{padding:27px}.chapter-info h3 br{display:none}.chapter-info h3{font-size:2rem}.site-footer{padding:28px 24px;flex-wrap:wrap}.site-footer>span{display:none}.reader-header{padding:45px 24px 30px}.reader-header h1{font-size:3rem}.reader-art{padding:0}.reader-art img{border-left:0;border-right:0}.prose{font-size:1.13rem;padding:38px 25px 20px}.chapter-end{margin:0 25px 50px}.reader-nav{gap:12px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
+/* Mystery Players: a lantern-lit room beyond the main court. */
+.mystery-page{--ink:#241b26;--deep:#16121a;--gold:#e8bd7b;--muted:#c9bac6;--line:#51404d;background:var(--deep)}
+.mystery-intro{text-align:center;padding:72px 24px 54px;background:radial-gradient(ellipse at top,#3d2832,transparent 75%)}
+.mystery-intro h1{font-size:clamp(2.8rem,6.5vw,6rem);line-height:1.05;letter-spacing:-.045em;margin:24px auto}
+.mystery-intro h1 span{font-size:.5em;font-style:italic;color:var(--muted)}
+.mystery-intro h1 em{color:var(--gold);font-weight:400}
+.mystery-intro>p:not(.eyebrow){color:var(--muted);font-size:1.1rem}
+.mystery-intro .button{margin-top:12px}
+.mystery-art{max-width:1280px;margin:0 auto;padding:0 30px}
+.mystery-art img{width:100%;border:1px solid var(--line)}
+.mystery-art figcaption{text-align:center;color:var(--muted);font: .72rem/1.6 Arial,sans-serif;padding:16px}
+.mystery-page .reader-header{padding-bottom:0}
+.mystery-page .reader-header h2{font-size:clamp(2.7rem,5vw,4.3rem);margin:20px auto}
+.mystery-entry{border-top:1px solid var(--line)}
+.mystery-entry .chapter-card{background:#291f29;border-color:#51404d}
+.mystery-entry h2{font-size:clamp(2rem,3vw,2.8rem)}
+@media(max-width:600px){.site-header{height:auto;min-height:90px;flex-wrap:wrap;gap:16px;padding:18px 20px}.site-header nav{flex-wrap:wrap;gap:18px}.mystery-intro{padding:48px 22px 36px}.mystery-art{padding:0}.mystery-art img{border-left:0;border-right:0}}
+
 /* Original story entry point and reader note. */
 .full-story-callout{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:25px;padding-top:32px;border-top:1px solid var(--line)}
 .intro>.full-story-callout{display:flex}

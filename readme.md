@@ -16,7 +16,15 @@ The [V2 experiment](story-v2.md) is retained as a source of optional ideas, rath
 
 ## Getting started
 
-Open [docs/index.html](docs/index.html) directly in a browser, or serve the website locally:
+The preferred local preview uses OrbStack with a read-only site mount:
+
+```sh
+docker run -d --name jade-court-preview -p 127.0.0.1:8080:80 --mount "type=bind,source=$PWD/docs,target=/usr/share/nginx/html,readonly" nginx:alpine
+```
+
+Visit `http://localhost:8080` or `http://localhost:8080/mystery-players/`. If the container already exists, use `docker start jade-court-preview`; use `docker stop jade-court-preview` to stop it. Edits to `docs/` appear on reload.
+
+You can also open [docs/index.html](docs/index.html) directly in a browser, or use Python as a fallback:
 
 ```sh
 python3 -m http.server 8000 --directory docs
@@ -27,6 +35,13 @@ Then visit `http://localhost:8000`. The site uses plain HTML and CSS, with local
 Edit `chapters/01-a-dunk-through-heaven.md` for Chapter 1 prose, then run `python3 tools/build_chapter.py` to update the reader HTML. Commit the generated HTML along with the source. Python 3.9+ is needed only for this rendering step or the optional local server. Layout and styles live in `docs/index.html`, `tools/build_chapter.py`, and `docs/assets/style.css`.
 
 ## Webcomic workflow
+
+### Mystery Players alternate series
+
+[King Poon vs Mystery Players](docs/mystery-players/index.html) opens with **The Lantern Table**, an original encounter set in Poon’s kingdom, taking the enchanted-box premise from the supplied **The Box** story. The homepage links to this separate series. Its first opponent wears black and a black top hat; the encounter follows the opening exchanges of their match, with their identity and the outcome still unknown.
+
+Edit `King Poon vs Mystery players/01-The Lantern Table.md`, then run `python3 tools/build_mystery.py`. The original `The Box.md` is preserved. Artwork originals and the generation/edit prompts live in `assets/images/`; the optimized website image is `docs/assets/images/mystery-lantern-table.jpg`.
+
 
 1. **Write:** Break the story into episodes, then script each page or scrolling sequence. Track episode tasks with GitHub Issues.
 2. **Draw:** Develop thumbnails, artwork, lettering, and final exports. Keep large layered originals in a backed-up art archive; commit optimized web images to this repository.
