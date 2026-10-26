@@ -26,13 +26,15 @@ A brilliant opposing player who might eventually join Poon's circle. He remember
 
 A gifted player whose fluid, surprising combinations make even familiar games feel unpredictable. Poon recognizes the pleasure of playing alongside someone who can improvise under pressure, but this character also wants room to pursue their own ideas and reputation. They could first meet as opponents at a public game hall, then discover how well their different instincts work together in a paired tournament. Keep the focus on creativity, competitive trust, and independence. Name, role, and introduction remain undecided.
 
-## Planned future encounter: the Chef / Steph Curry
+## Drafted future encounter: Chef Curry / Stephen Curry
 
-King Poon will later meet the head court cook, a fictional parallel to Steph Curry built around the “Chef Curry” nickname. The encounter is approved as a future story direction; its chapter placement and the cook's personal name remain undecided.
+King Poon will later meet the head court cook, an alternate-universe version of Stephen Curry built around the “Chef Curry” nickname. The first-meeting draft is `chapters/drafts/the-chefs-table.md`; its place in the chapter sequence remains undecided. He introduces himself as Curry and does not recognize the name Stephen or remember Poon's former world.
 
-The court knows this character simply as the Chef. Give him quick hands, an easy manner, and exacting standards beneath his apparent effortlessness. Cooking is a real craft and responsibility for him, with a kitchen staff, demanding banquets, and a life beyond Poon's recognition.
+The court knows this character as Chef Curry or the Chef. Give him quick hands, an easy manner, and exacting standards beneath his apparent effortlessness. Cooking is a real craft and responsibility for him, with a kitchen staff, demanding banquets, and a life beyond Poon's recognition.
 
-Possible introduction: Poon follows an enticing smell into the palace kitchens after a late game. The Chef sends a pinch of seasoning into a distant pot without interrupting his conversation. Poon stops in the doorway, struck by the familiar motion and face. Their exchange can hint at recognition without repeating Shen's introduction word for word.
+Draft introduction: Poon follows the smell of supper into the kitchens. Curry flicks a cloth onto a hot pot's handle to help an assistant, and Poon recognizes the motion and face. Supper and helping shell peas let them get acquainted before Poon discovers Curry's game box and the kitchen's tournament success.
+
+Visual reference: `references/chef-curry-visual-reference.webp`, moved from the user's Desktop. Selected costume uses a moderately tall, soft white linen chef's hat, paired with a cream wrap-front tunic and a worn indigo apron with subtle gold trim. The additional `references/chef-curry-face-reference.jpeg` guides the leaner facial likeness and restrained expression. Ground the kitchen in brick stoves, iron woks, bamboo steamers, and ceramic storage jars. The reference is inspiration, not a literal costume or setting mandate.
 
 Potential recurring role: the kitchen becomes an informal place for Poon to unwind, exchange news, and discover that the Chef is a formidable board-game opponent. His style could make neglected corners of the board dangerous, echoing the threat of scoring from distance. Treat him as a familiar competitive counterpart, rather than assuming every parallel was Poon's former club teammate.
 

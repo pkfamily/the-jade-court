@@ -99,6 +99,10 @@ See GitHub's [publishing source documentation](https://docs.github.com/en/pages/
 
 ## Visual references
 
+[Chef Curry face reference](references/chef-curry-face-reference.jpeg), additionally supplied by the user to refine the likeness and expression in the second kitchen illustration.
+
+[Chef Curry visual reference](references/chef-curry-visual-reference.webp), supplied by the user as inspiration for Stephen Curry's alternate-universe counterpart. The [first-meeting draft](chapters/drafts/the-chefs-table.md) has an illustrated [reader page](docs/drafts/chefs-table/index.html), linked under “Around the court” on the landing page. Run `python3 tools/build_chef.py` after prose edits. Original generated artwork is `assets/images/chefs-table-v3.png`, with the prompt saved alongside it. The reference filename supplied by the user credits Anderson Bluu; usage rights have not been recorded.
+
 [King Poon visual reference](references/king-poon-visual-reference.webp), supplied as inspiration for character development. Source and usage rights have not yet been recorded.
 
 Generated artwork drafts:

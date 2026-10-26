@@ -1,5 +1,9 @@
 # Visual continuity
 
+## Chef Curry
+
+Use `assets/images/chefs-table-v3.png` for the selected kitchen scene and costume. The face reference is `references/chef-curry-face-reference.jpeg`. Favor a lean adult face, close beard, natural-sized eyes, and a restrained knowing smile. Use angular shading consistent with Poon. His costume is a cream wrap-front tunic with rolled sleeves, a worn indigo apron, and a soft white linen chef's hat. Avoid the oversized puffy hat, broad promotional grin, and pristine Western double-breasted jacket of the initial draft.
+
 ## King Poon's jade throne
 
 Use `assets/images/king-poon-jade-throne-v1.png`, the landing-page artwork, as the canonical reference whenever the throne appears.
