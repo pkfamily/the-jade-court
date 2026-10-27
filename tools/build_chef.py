@@ -30,7 +30,7 @@ page = f'''<!doctype html>
   <main>
     <article aria-labelledby="chapter-title">
       <header class="reader-header"><p class="eyebrow">The Jade Court · Story draft</p><h1 id="chapter-title">{title}</h1><p class="reading-time">{minutes} min read</p><p class="story-note">A familiar face in the royal kitchens.<br>King Poon’s first meeting with Chef Curry.</p></header>
-      <figure class="reader-art"><img src="../../assets/images/chefs-table-v4.jpg" width="1672" height="941" fetchpriority="high" alt="King Poon pauses in the royal kitchen doorway, recognizing Chef Curry, who turns from an iron wok in his soft white hat and cream wrap-front tunic. Steamers, ceramic bowls, and fresh ingredients fill the working kitchen."></figure>
+      <figure class="reader-art"><img src="../../assets/images/chefs-table-v6.jpg" width="1672" height="941" fetchpriority="high" alt="King Poon pauses in the royal kitchen doorway, recognizing Chef Curry, wearing a soft white hat and a blue-and-gold number 30 apron over his cream tunic. Steamers, ceramic bowls, and fresh ingredients fill the working kitchen."></figure>
       <div class="prose" id="story-text">
 {paragraphs}
       </div>

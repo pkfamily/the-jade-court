@@ -1,0 +1,4 @@
+Mode: built-in image_gen edit.
+Edit target: assets/images/chefs-table-v5.png
+
+Precise object removal edit of supplied image. Remove only the green herb sprig and stem from Chef Curry's mouth. Restore a natural unobstructed subtle smile, lip edge and beard and the tiny patch of background behind the removed leaves. Nothing in his mouth. Preserve everything else as closely as possible: Curry likeness, head orientation, anatomy, pose, white hat, cream tunic, blue and gold number 30 bib apron, towel and hands, King Poon, kitchen, lighting, color, composition, painterly style and original wide dimensions. Do not redesign or reposition anything.

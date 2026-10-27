@@ -1,0 +1,5 @@
+Mode: built-in image_gen edit.
+Edit target: assets/images/chefs-table-v4.png
+Wardrobe reference: assets/images/chef-curry-jersey-reference.jpeg (copied from Desktop/images (1).jpeg).
+
+undefined
