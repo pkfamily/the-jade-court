@@ -1,0 +1,4 @@
+Built-in image_gen edit of mystery-wetland-alive-v2.png.
+Selected output: mystery-wetland-alive-v3.png.
+
+Edit the supplied image with one precise change: completely remove BOTH human figures in the upper middle background—the crowned basketball king and the stranger in the tall black top hat. Fill their former silhouettes naturally with the softly out-of-focus pavilion background, jade columns, distant blue night sky and warm lantern light. No people, human silhouettes, hats, crowns, or clothing should remain anywhere. Preserve everything else as exactly as possible: all five birds and their poses, illustrated cards and stacked card edges, reeds, water and reflections, moon, golden magic flecks, pavilion railing and architecture, lighting, depth of field, colors, framing and wide aspect ratio. Do not add new subjects. This is a clean background removal of two people, not a redesign.

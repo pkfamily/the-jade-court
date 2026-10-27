@@ -1,4 +1,4 @@
-"""Render the first Mystery Players encounter using only the standard library."""
+"""Render the Mystery Players encounter and its continuation using only the standard library."""
 from html import escape
 from pathlib import Path
 import re
@@ -22,12 +22,26 @@ for block in blocks[1:]:
     else:
         rendered.append(f'        <p>{escape(block)}</p>')
 paragraphs = '\n'.join(rendered)
+continuation = ROOT / 'King Poon vs Mystery players/02-The Birds Beneath.md'
+continuation_blocks = continuation.read_text().strip().split('\n\n')
+continuation_title = escape(continuation_blocks[0].removeprefix('# '))
+continuation_paragraphs = '\n'.join(
+    f'        <p>{escape(block)}</p>' for block in continuation_blocks[1:]
+)
+continuation_minutes = max(1, round(len(continuation.read_text().split()) / 200))
+continuation_article = f'''    <article id="the-birds-beneath" aria-labelledby="continuation-title">
+      <header class="reader-header"><p class="eyebrow">Encounter 01 · Part two</p><h1 id="continuation-title">{continuation_title}</h1><p class="reading-time">{continuation_minutes} min read</p><p class="story-note">A fictional retelling of Wingspan replay #937896051.</p></header>
+      <div class="prose" id="story-text">
+{continuation_paragraphs}
+      </div>
+      <footer class="chapter-end"><p class="eyebrow">End of the first match</p><p>The name in the register can wait. There is a game to learn from.</p><nav class="reader-nav" aria-label="Continuation navigation"><a href="../">← The Lantern Table</a><a href="../../index.html">The Jade Court →</a></nav></footer>
+    </article>'''
 page = '''<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="An enchanted box. A stranger in a black top hat. King Poon's next opponent has arrived. Read The Lantern Table, the first Mystery Players encounter.">
+  <meta name="description" content="An enchanted box. A stranger in a black top hat. King Poon's next opponent has arrived. Read The Lantern Table and The Birds Beneath, the first Mystery Players encounter.">
   <meta name="theme-color" content="#241b26">
   <title>King Poon vs Mystery Players — The Jade Court</title>
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
@@ -55,7 +69,7 @@ page = '''<!doctype html>
       <div class="prose" id="story-text">
 PARAGRAPHS
       </div>
-      <footer class="chapter-end"><p class="eyebrow">The opening moves</p><p>The match is underway. Its outcome, and the stranger’s identity, remain unknown.<br>More encounters await.</p><nav class="reader-nav" aria-label="Story navigation"><a href="../index.html">← The Jade Court</a><a href="#series-title">Back to top ↑</a></nav></footer>
+      <footer class="chapter-end"><p class="eyebrow">The opening moves</p><p>The tea is cooling, and the stranger is remembering how to play.</p><nav class="reader-nav" aria-label="Story navigation"><a href="../index.html">← The Jade Court</a><a href="the-birds-beneath/">Continue: The Birds Beneath →</a></nav></footer>
     </article>
   </main>
   <footer class="site-footer"><a class="brand" href="../index.html">The Jade Court</a><span>King Poon vs Mystery Players</span><a href="../story/">Poon’s backstory ↗</a></footer>
@@ -66,3 +80,36 @@ out = ROOT / 'docs/mystery-players/index.html'
 out.parent.mkdir(parents=True, exist_ok=True)
 out.write_text(page)
 print(f'Rendered {out.relative_to(ROOT)} ({len(blocks) - 1} paragraphs)')
+
+continuation_page = f'''<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The stranger's wetland fills with birds, and King Poon discovers how much can hide beneath the cards. Part two of the first Mystery Players encounter.">
+  <meta name="theme-color" content="#241b26">
+  <title>{continuation_title} — Mystery Players — The Jade Court</title>
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/style.css">
+</head>
+<body class="mystery-page">
+  <a class="skip-link" href="#story-text">Skip to story</a>
+  <header class="site-header">
+    <a class="brand" href="../../index.html"><span class="seal" aria-hidden="true">♜</span> The Jade Court</a>
+    <nav aria-label="Main navigation"><a href="../../index.html#chapters">Chapters</a><a href="../">Mystery Players</a></nav>
+  </header>
+  <main id="main">
+    <figure class="mystery-art">
+      <img src="../../assets/images/mystery-wetland-alive-v3.jpg" width="1672" height="941" fetchpriority="high" alt="Blackbirds, a crow, a tiny bushtit, and a soaring gull come alive among glowing bird cards and moonlit reeds, beneath the moon and warm lanterns of an empty jade pavilion.">
+      <figcaption>Between the cards, a wetland comes alive.</figcaption>
+    </figure>
+{continuation_article}
+  </main>
+  <footer class="site-footer"><a class="brand" href="../../index.html">The Jade Court</a><span>King Poon vs Mystery Players</span><a href="../">The Lantern Table ↗</a></footer>
+</body>
+</html>
+'''
+continuation_out = ROOT / 'docs/mystery-players/the-birds-beneath/index.html'
+continuation_out.parent.mkdir(parents=True, exist_ok=True)
+continuation_out.write_text(continuation_page)
+print(f'Rendered {continuation_out.relative_to(ROOT)}')

@@ -21,3 +21,7 @@ The Mystery Players match uses `mystery-lantern-table-v4.png`, which corrects th
 ## Traveler's home and crossing
 
 The selected crossing illustration is `mystery-box-crossing-v4.png`. The starting room is a modest Victorian study appropriate to the traveler's black top hat and long coat: muted floral wallpaper, mahogany writing desk, leather-bound books, an oil lamp, and a sash window onto a gaslit cobbled street. Avoid modern lamps, paperback books, contemporary furniture, and suburban street details. The first panel shows the traveler standing and bending over the box in a wider side view, distinct from the seated over-the-shoulder match composition. The room glimpsed behind the traveler during the crossing uses the same Victorian design. Keep elaborate jade architecture and royal ornament in the destination world.
+
+## Wetland illustration
+
+The selected continuation artwork is `mystery-wetland-alive-v3.png`. It focuses on the five birds, illustrated cards, moonlit reeds, and lantern-lit jade pavilion. Both Poon and the stranger have been removed from the background at the user's request. Earlier versions are retained as drafts.
