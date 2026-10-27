@@ -38,3 +38,21 @@
 .full-story-callout .button{flex-shrink:0}
 .story-note{font: .85rem/1.6 Arial,Helvetica,sans-serif;color:var(--muted);max-width:440px;margin:22px auto 0}
 @media(max-width:600px){.intro>.full-story-callout{align-items:flex-start;flex-direction:column;gap:22px}.full-story-callout .button{width:100%;justify-content:space-between}}
+
+/* Compact reading order for the Mystery Players encounter. */
+.episode-list{display:block;max-width:760px;margin:0 auto 48px;padding:0 28px}
+.episode-list ol{margin:0;padding-left:24px;display:grid;gap:12px}
+.episode-list li::marker{color:var(--gold)}
+.episode-list a{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 24px;padding:16px;border-bottom:1px solid var(--line)}
+.episode-list a span{font-family:Georgia,'Times New Roman',serif;font-size:1.2rem}
+.episode-list small{font-size:.8rem;color:var(--muted)}
+
+
+/* Keep the series aligned with the landing page's existing story cards. */
+.mystery-series-panel .chapter-info h2{font-size:2.5rem;line-height:1.1;letter-spacing:-.03em;margin:24px 0 17px}
+.mystery-chapter-menu{display:grid;gap:0;margin-top:24px}
+.mystery-chapter-menu a{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:13px 0;border-top:1px solid #51404d;color:var(--gold);font-size:.8rem;line-height:1.5}
+.mystery-chapter-menu a:hover{color:var(--paper)}
+.mystery-chapter-menu small{color:var(--muted);font-size:.65rem;margin-right:10px}
+@media(max-width:950px){.mystery-series-panel .chapter-info h2{font-size:2rem}}
+@media(max-width:600px){.mystery-series-panel .chapter-info h2 br{display:none}}
