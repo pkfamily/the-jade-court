@@ -14,21 +14,33 @@ Poon pointed at the new egg.
 
 The visitor smiled and gathered their cards.
 
+Shen paused with the teapot, looking at the card beneath the blackbird.
+
+“Did that one get eaten?”
+
+“Joined the flock,” said the stranger. “Some hunters tuck their prey underneath. This one gathers more blackbirds.”
+
+“Whatever bird is on the card?” Shen asked.
+
+“Once it's underneath, it counts as another blackbird. And this power gives me an egg when I add to the flock.”
+
+Among the painted reeds, another red shoulder flickered. Poon watched a blackbird settle beside its companions, then turned his attention back to the crow.
+
 Early on, Poon had been pleased with his blue jay. It brought him seed from the feeder, and his Baird's sparrow added eggs when he worked the grassland. He could see where his next few turns were going. Across the table, the stranger had started with a red-winged blackbird, then found the fish crow a place beside it. Now, whenever they returned to the wetland for cards, something seemed to happen all the way down the row.
 
 Shen set fresh cups outside the reach of Poon's elbow.
 
-“How is our guest finding the game?”
+“Is it coming back to you?” Shen asked the visitor.
 
-“Remembering,” Poon said.
+The stranger tipped their hat back a little. “Enough to take a turn without asking what everything means.”
 
-The stranger tipped their hat back a little. “Some of it.”
+“Enough to win the first round,” Poon said.
 
-They had taken the first round's contest, four points to Poon's one. He had conceded that cheerfully. There was plenty of game left, and he was building a wetland of his own. His common grackle could tuck away a card and lay an egg too.
+The visitor had taken the first round's contest, four points to Poon's one. He had conceded that cheerfully. There was plenty of game left, and he was building a wetland of his own. His common grackle could tuck away a card and lay an egg too.
 
 Then a yellow-headed blackbird joined the visitor's birds.
 
-On their next visit to the wetland, it tucked a card and laid an egg. The crow took an egg for food. The red-winged blackbird tucked another card and laid another egg. The visitor's hand had grown, their food supply had improved, and two more cards lay beneath birds.
+On their next visit to the wetland, it tucked a card and laid an egg. The crow took an egg for food. The red-winged blackbird tucked another card and laid another egg. The visitor's hand had grown, their food supply had improved, and each blackbird's flock had gained a member.
 
 Poon shifted forward in his chair.
 
@@ -42,7 +54,7 @@ The stranger looked at the wetland.
 
 Shen moved his ledger closer to the game table.
 
-By the end of the second round, a bushtit had joined the row. Poon's purple martin was working beside his grackle, giving him a fresh card after each tuck, but the visitor now had three birds putting cards away. They won the second contest as well. Shen wrote down five points for the stranger and none for the king.
+By the end of the second round, a bushtit had joined the row. Poon's purple martin was working beside his grackle, giving him a fresh card after each tuck, but the visitor now had three birds gathering flocks. Small shapes crowded the reeds behind their cards. They won the second contest as well. Shen wrote down five points for the stranger and none for the king.
 
 Poon looked at the brush.
 
@@ -52,17 +64,15 @@ Poon looked at the brush.
 
 The stranger laughed before they could stop themselves. Poon grinned, then reached for his next card.
 
-There were still things he could do well. He added a grasshopper sparrow to his grassland, then a barn swallow. When he laid eggs, the sparrows contributed their own. The painted meadow filled with small speckled shapes, and he began to count the remaining spaces before choosing where to put them.
-
 Across from him, a ring-billed gull completed the visitor's wetland. Its card slipped into place at the end of the row. The golden bird above the box landed on the rim, head tilted, as though it wanted a closer look.
 
 The next time the stranger drew cards, Poon watched the whole sequence.
 
 The gull tucked a card and drew a replacement. The bushtit tucked one and laid an egg. The yellow-headed blackbird did the same. The crow traded an egg for food. Finally, the red-winged blackbird tucked its card and laid an egg.
 
-Four cards had disappeared beneath the birds.
+Four cards had slipped beneath the birds. A second gull wheeled above the water while another bushtit found a place among its companions. Both flocks of blackbirds stirred in the reeds. The crow stayed where it was, alone beside the food.
 
-Poon glanced at the little overlapping edges. He had been watching the eggs come and go, the food gathering beside the board, the cards moving through the visitor's hand. Those quiet stacks had kept growing through all of it.
+Poon glanced at the little overlapping edges. He had been watching the eggs come and go, the food gathering beside the board, the cards moving through the visitor's hand. Those quiet stacks had kept growing through all of it. He knew what they stood for, yet he had kept counting the four flocking birds as though each were still alone.
 
 “May I see how many are under there?”
 
@@ -78,6 +88,8 @@ Shen waited.
 
 “I would like you to drink your tea.”
 
+There were still things he could do well. He added a grasshopper sparrow to his grassland, then a barn swallow. When he laid eggs, the sparrows contributed their own. The painted meadow filled with small speckled shapes, and he began to count the remaining spaces before choosing where to put them.
+
 Poon took the third round's contest, six points to three. He sat back for the first time in several turns and rolled his shoulders. The visitor studied his grassland, then their own remaining cards. They were taking longer again, but now Poon could see them weighing choices rather than searching their memory.
 
 “You don't need my help with the symbols anymore,” he said.
@@ -88,9 +100,9 @@ Poon nodded toward the board. “I'm beginning to regret being such a good host.
 
 The last round gave each of them only a handful of turns.
 
-The stranger returned to the wetland, then found room for a blue-winged warbler in the forest. Poon played a scaled quail in his grassland and a white-breasted nuthatch in his forest. He wanted those birds down while he still had time to use the spaces they opened.
+The stranger returned to the wetland. Poon drew cards from his own, adding to his martin's and grackle's flocks. Then the visitor found room for a blue-winged warbler in the forest, and Poon played a scaled quail in his grassland. The quail would add an egg whenever he used that row.
 
-Twice more, the visitor worked through the wetland. Poon followed each tuck with his eyes. He could no longer pretend those cards were simply gone.
+The visitor worked through the wetland again. Poon followed each tuck with his eyes, then looked for movement among the reeds or over the water. He played a white-breasted nuthatch in his forest, giving himself more room for eggs. Across the table, the stranger made one last pass through the wetland.
 
 On his next turn he laid eggs. Four came from the grassland action, then the quail and both sparrows added one apiece. His barn swallow had nothing left in his hand to tuck. He touched its card anyway, as though encouraging a teammate who had run out of room to shoot.
 
@@ -116,7 +128,7 @@ Shen counted them into small piles.
 
 Thirty-eight.
 
-Poon watched the last pile form. His guest had twenty-seven more tucked cards than he did. All those visits to the wetland were lying on the table now.
+Poon watched the last pile form. Thirty-eight extra flock members, each worth a point. His guest had twenty-seven more tucked cards than he did. Above the little wetland, a gull circled. A few blackbirds shifted among the reeds, with more stirring out of sight. All those visits to the wetland were lying on the table now.
 
 “One hundred and six,” Shen said.
 
@@ -146,7 +158,7 @@ The stranger began gathering the eggs. Poon reached for the deck, then paused wi
 
 “Before we put these away, would you show me when you decided to build that wetland?”
 
-The visitor drew the red-winged blackbird back out and laid it between them. Then they found the crow.
+The visitor lifted the red-winged blackbird from the wetland and laid it between them, then placed the crow beside it.
 
 “Here,” they said. “When these two came together.”
 

@@ -106,7 +106,7 @@ continuation_page = f'''<!doctype html>
   </header>
   <main id="main">
     <figure class="mystery-art">
-      <img src="../../assets/images/mystery-wetland-alive-v3.jpg" width="1672" height="941" fetchpriority="high" alt="Blackbirds, a crow, a tiny bushtit, and a soaring gull come alive among glowing bird cards and moonlit reeds, beneath the moon and warm lanterns of an empty jade pavilion.">
+      <img src="../../assets/images/mystery-wetland-flocks-v5.jpg" width="1672" height="941" fetchpriority="high" alt="Five prominent birds and a few smaller flock companions gather above glowing stacks of tucked bird cards and moonlit reeds beneath the lanterns of an empty jade pavilion.">
       <figcaption>Between the cards, a wetland comes alive.</figcaption>
     </figure>
 {continuation_article}
